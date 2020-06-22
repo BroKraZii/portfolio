@@ -1,0 +1,39 @@
+nav {
+    font-family: 'Piedra', cursive;
+}
+.container {
+    align-content: center;
+    margin-bottom: 25px;
+}
+body {
+    font-family: 'Balsamiq Sans', cursive;
+    background-color: silver;
+}
+h1 {
+    margin-top: 25px;
+    margin-bottom: 35px;
+    font-size: x-large;
+    font-weight: bolder;
+    text-align: center;
+}
+footer {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: silver;
+}
+.col-6 {
+    text-align: center;
+    float: right;
+}
+.col-4 {
+    margin-top: 20px;
+    margin-left: 115px;
+}
+.my-5 {
+    margin: 10px;
+    margin-left: 35px;
+    margin-right: 25px;
+}
+section {
+    margin-bottom: 50px;
+}
